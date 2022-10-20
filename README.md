@@ -1,15 +1,17 @@
 WeHelp Boot Camp <Week 5>
 -----------
 <br />
-> WeHelp Boot Camp Week 4 Mission: MySQL
-> 為求方便觀看，故將圖中的錯誤語法蓋住。
+```
+WeHelp Boot Camp Week 4 Mission: MySQL
+為求方便觀看，故將圖中的錯誤語法蓋住。
+```
 <br />
-##要求⼆：建立資料庫和資料表
-<br />
+#####要求⼆：建立資料庫和資料表
+---
 ![Q2](https://user-images.githubusercontent.com/111497136/196937797-c19b51e1-3796-42c0-8f6b-04eea9ec0f2e.PNG)
 <br />
-##要求三：SQL CRUD
-<br />
+#####要求三：SQL CRUD
+---
 1. 使⽤INSERT指令新增⼀筆資料到member資料表中，這筆資料的username和password欄位必須是test。接著繼續新增⾄少4筆隨意的資料。
 2. 使⽤SELECT指令取得所有在member資料表中的會員資料。
 <br />
@@ -35,16 +37,16 @@ WeHelp Boot Camp <Week 5>
 <br />
 ![Q3-7](https://user-images.githubusercontent.com/111497136/196937909-8f65bf71-97e9-4717-9b51-0fbdac338e77.PNG)
 <br />
-##要求四：SQL Aggregate Functions
-<br />
+#####要求四：SQL Aggregate Functions
+---
 1. 取得member資料表中，總共有幾筆資料(幾位會員)。
 2. 取得member資料表中，所有會員follower_count欄位的總和。
 3. 取得member資料表中，所有會員follower_count欄位的平均數。
 <br />
 ![Q4](https://user-images.githubusercontent.com/111497136/196937924-d569ae09-2681-4579-89a5-d9d81a28eeae.png)
 <br />
-##要求五：SQL JOIN (Optional)
-<br />
+#####要求五：SQL JOIN (Optional)
+---
 1. 在資料庫中，建立新資料表紀錄留⾔資訊，取名字為message。
 <br />
 ![Q5-1](https://user-images.githubusercontent.com/111497136/196938026-724e244c-73a8-4546-a26e-983a62e57f16.png)
@@ -62,8 +64,8 @@ WeHelp Boot Camp <Week 5>
 <br />
 ![Q5-4](https://user-images.githubusercontent.com/111497136/196938091-4a909279-a2df-4c4a-be4d-c56b49206408.PNG)
 <br />
-##轉檔語法
-<br />
+#####轉檔語法
+---
 ![Q6](https://user-images.githubusercontent.com/111497136/196938103-3dc19034-e031-4710-8f70-430e1d40d325.PNG)
 
 
