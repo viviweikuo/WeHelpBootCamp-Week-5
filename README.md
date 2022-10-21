@@ -44,7 +44,7 @@ WeHelp Boot Camp Week 4 Mission: MySQL
 
 <br />
 
-![Q3-4](https://user-images.githubusercontent.com/111497136/196937846-ea827b23-73f2-47aa-b160-eca39c569a07.PNG)
+![Q3-4_fix](https://user-images.githubusercontent.com/111497136/197122958-6a355cb3-c5c1-42c3-8201-85e02aa2f758.PNG)
 
 <br />
 
@@ -53,6 +53,7 @@ WeHelp Boot Camp Week 4 Mission: MySQL
 <br />
 
 ![Q3-5](https://user-images.githubusercontent.com/111497136/196937861-636dd7f5-6a1b-4531-ad4b-04799f70d77a.PNG)
+
 
 <br />
 
