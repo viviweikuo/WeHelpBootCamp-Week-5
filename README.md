@@ -40,7 +40,7 @@ WeHelp Boot Camp Week 4 Mission: MySQL
 
 <br />
 
-4. 使⽤SELECT指令取得member資料表中第2~4共三筆資料，並按照time欄位，由近到遠排序。
+4. 使⽤SELECT指令取得member資料表中第2~4共三筆資料，並按照time欄位，由近到遠排序。(並非編號2、3、4的資料，⽽是排序後的第2~4筆資料)
 
 <br />
 
